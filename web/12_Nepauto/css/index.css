@@ -1,0 +1,28 @@
+.height200px{
+    height: 200px;
+}
+.height300px{
+    height:300px;
+}
+.bordera{
+    border: 3px solid white;
+    
+}
+.borderb{
+    border: 3px solid black;
+    
+    
+}
+.imgCenter{
+    text-align: center;
+    justify-content: center;
+}
+.textCenter{
+   align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.background{
+    background-color: grey;
+}
